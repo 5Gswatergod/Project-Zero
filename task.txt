@@ -1,0 +1,4 @@
+- LLM
+- TTS
+- Handle user input
+- Character
